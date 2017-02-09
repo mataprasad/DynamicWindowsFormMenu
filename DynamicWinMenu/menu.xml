@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfXMenu xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XMenu Name="File0" Text="File--8" Key="FILE_0" Index="8">
+    <Childs>
+      <XMenu Name="Open0" Text="Open" Key="OPEN_0" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1" />
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN1" Index="2" />
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN2" Index="3" />
+        </Childs>
+      </XMenu>
+      <XMenu Name="New0" Text="New" Key="NEW_0" Index="2"></XMenu>
+      <XMenu Name="Save0" Text="Save" Key="SAVE_0" Index="3"></XMenu>
+      <XMenu Name="SaveAs0" Text="Save As" Key="SAVE_AS_0" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File1" Text="File" Key="FILE_1" Index="1">
+    <Childs>
+      <XMenu Name="Open1" Text="Open" Key="OPEN_1" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New1" Text="New" Key="NEW_1" Index="2"></XMenu>
+      <XMenu Name="Save1" Text="Save" Key="SAVE_1" Index="3"></XMenu>
+      <XMenu Name="SaveAs1" Text="Save As" Key="SAVE_AS_1" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File2" Text="File" Key="FILE_2" Index="1">
+    <Childs>
+      <XMenu Name="Open2" Text="Open" Key="OPEN_2" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New2" Text="New" Key="NEW_2" Index="2">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPENX0" Index="1" />
+          <XMenu Name="b-Open" Text="b-Open" Key="A_OPENX1" Index="2" />
+          <XMenu Name="c-Open" Text="c-Open" Key="A_OPENX2" Index="3" />
+        </Childs>
+      </XMenu>
+      <XMenu Name="Save2" Text="Save" Key="SAVE_2" Index="3"></XMenu>
+      <XMenu Name="SaveAs2" Text="Save As" Key="SAVE_AS_2" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File3" Text="File" Key="FILE_3" Index="1">
+    <Childs>
+      <XMenu Name="Open3" Text="Open" Key="OPEN_3" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New3" Text="New" Key="NEW_3" Index="2"></XMenu>
+      <XMenu Name="Save3" Text="Save" Key="SAVE_3" Index="3"></XMenu>
+      <XMenu Name="SaveAs3" Text="Save As" Key="SAVE_AS_3" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File4" Text="File" Key="FILE_4" Index="1">
+    <Childs>
+      <XMenu Name="Open4" Text="Open" Key="OPEN_4" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New4" Text="New" Key="NEW_4" Index="2"></XMenu>
+      <XMenu Name="Save4" Text="Save" Key="SAVE_4" Index="3"></XMenu>
+      <XMenu Name="SaveAs4" Text="Save As" Key="SAVE_AS_4" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File5" Text="File" Key="FILE_5" Index="1">
+    <Childs>
+      <XMenu Name="Open5" Text="Open" Key="OPEN_5" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New5" Text="New" Key="NEW_5" Index="2"></XMenu>
+      <XMenu Name="Save5" Text="Save" Key="SAVE_5" Index="3"></XMenu>
+      <XMenu Name="SaveAs5" Text="Save As" Key="SAVE_AS_5" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File6" Text="File" Key="FILE_6" Index="1">
+    <Childs>
+      <XMenu Name="Open6" Text="Open" Key="OPEN_6" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New6" Text="New" Key="NEW_6" Index="2"></XMenu>
+      <XMenu Name="Save6" Text="Save" Key="SAVE_6" Index="3"></XMenu>
+      <XMenu Name="SaveAs6" Text="Save As" Key="SAVE_AS_6" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File7" Text="File" Key="FILE_7" Index="1">
+    <Childs>
+      <XMenu Name="Open7" Text="Open" Key="OPEN_7" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New7" Text="New" Key="NEW_7" Index="2"></XMenu>
+      <XMenu Name="Save7" Text="Save" Key="SAVE_7" Index="3"></XMenu>
+      <XMenu Name="SaveAs7" Text="Save As" Key="SAVE_AS_7" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File8" Text="File" Key="FILE_8" Index="1">
+    <Childs>
+      <XMenu Name="Open8" Text="Open" Key="OPEN_8" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New8" Text="New" Key="NEW_8" Index="2"></XMenu>
+      <XMenu Name="Save8" Text="Save" Key="SAVE_8" Index="3"></XMenu>
+      <XMenu Name="SaveAs8" Text="Save As" Key="SAVE_AS_8" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+  <XMenu Name="File9" Text="File" Key="FILE_9" Index="1">
+    <Childs>
+      <XMenu Name="Open9" Text="Open" Key="OPEN_9" Index="1">
+        <Childs>
+          <XMenu Name="A-Open" Text="a-Open" Key="A_OPEN" Index="1"></XMenu>
+        </Childs>
+      </XMenu>
+      <XMenu Name="New9" Text="New" Key="NEW_9" Index="2"></XMenu>
+      <XMenu Name="Save9" Text="Save" Key="SAVE_9" Index="3"></XMenu>
+      <XMenu Name="SaveAs9" Text="Save As" Key="SAVE_AS_9" Index="4"></XMenu>
+    </Childs>
+  </XMenu>
+</ArrayOfXMenu>
